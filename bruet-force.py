@@ -1,6 +1,7 @@
 from random import *
 import os
 
+
 u_pwd = input("Enter a Password: ")
 pwd = ['a', 'b', '0', '1','2', '3', '4']
 
