@@ -3,7 +3,7 @@ import os
 
 
 u_pwd = input("Enter a Password: ")
-pwd = ['a', 'b', '0', '1','2', '3', '4']
+pwd = ['a', 'b', '0', '1','2', '3', '4'] # wordlist
 
 pw = ""
 while(pw != u_pwd):
