@@ -30,7 +30,7 @@ password_entry = tk.Entry(app, width=30, show="*")
 password_entry.pack()
 
 # login button
-login_button = tk.Button(app, text="Login", width=15, command=login)J
+login_button = tk.Button(app, text="Login", width=15, command=login)
 login_button.pack(pady=15)
 
 
